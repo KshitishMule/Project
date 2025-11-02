@@ -1,0 +1,22 @@
+# === Core Bot Requirements ===
+openai
+python-dotenv
+tiktoken
+backoff
+pillow
+luma.lcd
+RPi.GPIO
+PyYAML
+nicegui
+yfinance
+requests
+opencv-python
+
+# === Audio and Speech Stack (replaces Azure Speech) ===
+SpeechRecognition
+gTTS
+pyaudio
+alsaaudio
+
+# === Optional: Used by other utilities ===
+# python-vlc     # (optional fallback player)
